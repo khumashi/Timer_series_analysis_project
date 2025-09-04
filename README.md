@@ -4,23 +4,6 @@ An end-to-end implementation of **energy demand forecasting** using the **ARIMA*
 
 ---
 
-##  Table of Contents
-- [Project Overview](#project-overview)  
-- [Features](#features)  
-- [Prerequisites & Setup](#prerequisites--setup)  
-- [Repository Structure](#repository-structure)  
-- [Usage](#usage)  
-- [Modeling Workflow](#modeling-workflow)  
-- [Evaluation Metrics](#evaluation-metrics)  
-- [Results & Visualizations](#results--visualizations)  
-- [Deployment (Optional)](#deployment-optional)  
-- [Getting Started](#getting-started)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Acknowledgments & References](#acknowledgments--references)
-
----
-
 ##  Project Overview
 This project forecasts energy demand using a time series forecasting pipeline implemented in Python. Leveraging statistical models—specifically **ARIMA**—it delivers forecasts that can guide energy management and planning decisions.
 
@@ -36,15 +19,6 @@ This project forecasts energy demand using a time series forecasting pipeline im
 - Performance evaluation (MAE, RMSE, MAPE)  
 - (Optional) Deployment-ready API using Flask or similar
 
----
-
-##  Prerequisites & Setup
-
-### Requirements
-- Python 3.8+
-- Libraries: `pandas`, `numpy`, `matplotlib`, `statsmodels`, `scikit-learn`, (optional) `flask`, `gunicorn`
-
-### Installation
 
 ```bash
 git clone https://github.com/yourusername/energy-arima-forecast.git
