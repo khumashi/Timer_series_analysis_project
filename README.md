@@ -15,6 +15,4 @@ This project forecasts energy demand using a time series forecasting pipeline im
 - Stationarity testing (ADF, KPSS tests)  
 - ARIMA parameter selection (e.g., grid search, AIC/BIC)  
 - Model fitting & residual diagnostics  
-- Forecast generation & visualization  
-- Performance evaluation (MAE, RMSE, MAPE)  
-- (Optional) Deployment-ready API using Flask or similar
+- Forecast generation & visualization 
